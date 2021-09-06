@@ -13,7 +13,8 @@ How to use
 3- your main js file
 
 GlowingBox.init('.glow-box', {
-text: 'Mostafa', // text in button
+
+    text: 'Mostafa', // text in button
 
     from: 30, // start glow distance
 
